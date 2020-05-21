@@ -102,4 +102,4 @@ In order to complete this assignment, you must do the following:
 
 ### Grading
 
-This assignment will be graded via peer assessment.
+This assignment will be graded via peer assessment. This is a programming assignment for 2020,used to evaluate students performance, which is a good method of evaluation, which test students follow up ability and equally evaluate the entire school teaching system.
